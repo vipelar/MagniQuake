@@ -1,0 +1,15 @@
+.vscode/
+node_modules/
+package-lock.json
+package.json
+.env
+*.log
+*.zip
+*.tar.gz
+*.txt
+docs/
+*.png
+*.jpg
+*.jpeg
+.*
+!.gitignore
